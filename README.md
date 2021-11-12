@@ -1,5 +1,5 @@
 # Cancer-
-Cancer- is a web application aimed at supporting medical professionals to classify the type of tumour in ones’ gastrointestinal tract. Cancer- is a collaborative repository for FIT3164 Data Science Project 2.
+Cancer- is a web application aimed at supporting medical professionals to classify the type of tumour in ones’ gastrointestinal tract. Deep learning approach was applied to create Cancer-. Cancer- is a collaborative repository for FIT3164 Data Science Project 2.
 
 ## Cancer- WandB Dashboard
 We utilised Weights and Biases (WandB) to keep track of our hyperparameters, system metrics, and predictions so we can compare models live. To access Weights and Biases Dashboard, please click on the link below.
